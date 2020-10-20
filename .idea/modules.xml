@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/art.iml" filepath="$PROJECT_DIR$/.idea/art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/art-boot.iml" filepath="$PROJECT_DIR$/art-boot/art-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/admin/art-boot-admin.iml" filepath="$PROJECT_DIR$/art-boot/admin/art-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/admin/admin-api/art-boot-admin-api.iml" filepath="$PROJECT_DIR$/art-boot/admin/admin-api/art-boot-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/admin/admin-biz/art-boot-admin-biz.iml" filepath="$PROJECT_DIR$/art-boot/admin/admin-biz/art-boot-admin-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/cms/art-boot-cms.iml" filepath="$PROJECT_DIR$/art-boot/visual/cms/art-boot-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/codegen/art-boot-codegen.iml" filepath="$PROJECT_DIR$/art-boot/visual/codegen/art-boot-codegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/art-boot-common.iml" filepath="$PROJECT_DIR$/art-boot/common/art-boot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-bom/art-boot-common-bom.iml" filepath="$PROJECT_DIR$/art-boot/common/common-bom/art-boot-common-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-core/art-boot-common-core.iml" filepath="$PROJECT_DIR$/art-boot/common/common-core/art-boot-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-data/art-boot-common-data.iml" filepath="$PROJECT_DIR$/art-boot/common/common-data/art-boot-common-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-datasource/art-boot-common-datasource.iml" filepath="$PROJECT_DIR$/art-boot/common/common-datasource/art-boot-common-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-job/art-boot-common-job.iml" filepath="$PROJECT_DIR$/art-boot/common/common-job/art-boot-common-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-license/art-boot-common-license.iml" filepath="$PROJECT_DIR$/art-boot/common/common-license/art-boot-common-license.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-log/art-boot-common-log.iml" filepath="$PROJECT_DIR$/art-boot/common/common-log/art-boot-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-minio/art-boot-common-minio.iml" filepath="$PROJECT_DIR$/art-boot/common/common-minio/art-boot-common-minio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-security/art-boot-common-security.iml" filepath="$PROJECT_DIR$/art-boot/common/common-security/art-boot-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-sequence/art-boot-common-sequence.iml" filepath="$PROJECT_DIR$/art-boot/common/common-sequence/art-boot-common-sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/common/common-swagger/art-boot-common-swagger.iml" filepath="$PROJECT_DIR$/art-boot/common/common-swagger/art-boot-common-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/daemon-job/art-boot-daemon-job.iml" filepath="$PROJECT_DIR$/art-boot/visual/daemon-job/art-boot-daemon-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/daemon-quartz/art-boot-daemon-quartz.iml" filepath="$PROJECT_DIR$/art-boot/visual/daemon-quartz/art-boot-daemon-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/module/art-boot-module.iml" filepath="$PROJECT_DIR$/art-boot/module/art-boot-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/module/module-api/art-boot-module-api.iml" filepath="$PROJECT_DIR$/art-boot/module/module-api/art-boot-module-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/module/module-engine/art-boot-module-engine.iml" filepath="$PROJECT_DIR$/art-boot/module/module-engine/art-boot-module-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/module/module-ext/art-boot-module-ext.iml" filepath="$PROJECT_DIR$/art-boot/module/module-ext/art-boot-module-ext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/monitor/art-boot-monitor.iml" filepath="$PROJECT_DIR$/art-boot/visual/monitor/art-boot-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/mp-platform/art-boot-mp-platform.iml" filepath="$PROJECT_DIR$/art-boot/visual/mp-platform/art-boot-mp-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/swagger/art-boot-swagger.iml" filepath="$PROJECT_DIR$/art-boot/visual/swagger/art-boot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/art-boot/visual/art-boot-visual.iml" filepath="$PROJECT_DIR$/art-boot/visual/art-boot-visual.iml" />
+    </modules>
+  </component>
+</project>

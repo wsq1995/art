@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="art-boot-common-job" />
+        <module name="art-boot-daemon-job" />
+        <module name="art-boot-mp-platform" />
+        <module name="art-boot-common-sequence" />
+        <module name="art-boot-codegen" />
+        <module name="art-boot-common-datasource" />
+        <module name="art-boot-admin-biz" />
+        <module name="art-boot-swagger" />
+        <module name="art-boot-module-engine" />
+        <module name="art-boot-common-license" />
+        <module name="art-boot-common-data" />
+        <module name="art-boot-monitor" />
+        <module name="art-boot-common-core" />
+        <module name="art-boot-common-swagger" />
+        <module name="art-boot-daemon-quartz" />
+        <module name="art-boot-common-log" />
+        <module name="art-boot-cms" />
+        <module name="art-boot-common-minio" />
+        <module name="art-boot-module-api" />
+        <module name="art-boot-admin-api" />
+        <module name="art-boot-common-security" />
+        <module name="art-boot-module-ext" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="art-boot" target="1.8" />
+      <module name="art-boot-admin" target="1.8" />
+      <module name="art-boot-admin-api" target="1.8" />
+      <module name="art-boot-admin-biz" target="1.8" />
+      <module name="art-boot-cms" target="1.8" />
+      <module name="art-boot-codegen" target="1.8" />
+      <module name="art-boot-common" target="1.8" />
+      <module name="art-boot-common-bom" target="1.5" />
+      <module name="art-boot-common-core" target="1.8" />
+      <module name="art-boot-common-data" target="1.8" />
+      <module name="art-boot-common-datasource" target="1.8" />
+      <module name="art-boot-common-job" target="1.8" />
+      <module name="art-boot-common-license" target="1.8" />
+      <module name="art-boot-common-log" target="1.8" />
+      <module name="art-boot-common-minio" target="1.8" />
+      <module name="art-boot-common-security" target="1.8" />
+      <module name="art-boot-common-sequence" target="1.8" />
+      <module name="art-boot-common-swagger" target="1.8" />
+      <module name="art-boot-daemon-job" target="1.8" />
+      <module name="art-boot-daemon-quartz" target="1.8" />
+      <module name="art-boot-module" target="1.8" />
+      <module name="art-boot-module-api" target="1.8" />
+      <module name="art-boot-module-engine" target="1.8" />
+      <module name="art-boot-module-ext" target="1.8" />
+      <module name="art-boot-monitor" target="1.8" />
+      <module name="art-boot-mp-platform" target="1.8" />
+      <module name="art-boot-swagger" target="1.8" />
+      <module name="art-boot-visual" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

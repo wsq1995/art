@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/art-basic-mini-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-boot-all" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-boot-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-bpm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-multi-entrances-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-multi-entrances-platform-bpm-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-multi-entrances-platform-phone-vue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-multi-entrances-platform-vue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-platform-nacos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/art-platform-ui" vcs="Git" />
+  </component>
+</project>
